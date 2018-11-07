@@ -1,0 +1,60 @@
+h1 {
+    font-family: 'Spicy Rice', cursive;
+    color: #96aa11;
+    font-size: 70px;
+}
+
+body {
+    text-align: center;
+    background-color: #7be5e3;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 25px; 
+}
+
+img {
+    width: 250px;
+}
+
+.movie {
+    color: Red;        
+}
+
+.scary:hover {
+    font-family: 'Spicy Rice', cursive;
+    background-color: pink;
+}
+
+.games {
+    color: green;
+    
+}
+
+.space:hover {
+    background-color: #bc54e5;
+    font-family: 'Poor Story', cursive;
+}
+
+.food {
+    color: orange;
+}
+
+.beef:hover {
+    background-color: #29ce3f;
+    font-family: 'Black And White Picture', sans-serif;
+}
+
+.art {
+    color: teal;
+}
+
+.draw:hover {
+    background-color: yellow;
+    font-family: 'Indie Flower', cursive;
+}
+
